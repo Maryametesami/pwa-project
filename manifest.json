@@ -1,0 +1,32 @@
+{
+   
+    "name" : "pws",
+    "description" : "project with sass",
+    "short_name" : "sass",
+    "start_url" : "/",
+    "scope" : "." ,
+    "display" : "standalone",
+    "dir" : "rtl" ,
+    "lang" : "En" ,
+    "icons": [
+       
+        {
+          "src": "/image/manifest/192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/image/manifest/logo-1.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+      
+  "theme_color": "#3367D6",
+  
+  "background_color": "#3367D6"
+
+
+
+
+}
